@@ -1,0 +1,6 @@
+Qty,Value,Device,Package,Parts,Description,MF,MPN,Aliexpress or Ebay link
+1,,,16-SSOP,,Ultra low voltage harvester,Linear Technology,LTC3108-1,https://www.digikey.com/product-detail/en/linear-technology-analog-devices/LTC3108EGN-1-PBF/LTC3108EGN-1-PBF-ND/2297101
+1,7.5uH,transformer,,,100-turn transformer,Coilcraft,LPR6235-752SMRB,https://www.mouser.com/ProductDetail/994-LPR6235-752SMRB
+2,1uF,capacitor,0805,X7R,50v ceramic SMT capacitor,,,https://www.digikey.com/product-detail/en/CL21B105KBFNNNG/1276-6470-1-ND/5958098/?itemSeq=307739320
+1,1nF,capacitor,0805,X7R,50v ceramic SMT capacitor,,,https://www.digikey.com/product-detail/en/kemet/C0805C102K5RECAUTO/399-17883-1-ND/8640550
+1,330pF,capacitor,0805,X7R,50v ceramic SMT capacitor,,,https://www.digikey.com/product-detail/en/885012206080/732-7998-1-ND/5454625/?itemSeq=307740404
